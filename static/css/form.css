@@ -1,0 +1,62 @@
+* {
+  transition: all .5s;
+}
+
+.login-effect::before,
+.login-effect::after {
+  content: '';
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  border-top-left-radius: 40%;
+  border-top-right-radius: 45%;
+  border-bottom-left-radius: 35%;
+  border-bottom-right-radius: 40%;
+  z-index: 0;
+  animation: wawes 7s infinite;
+}
+
+.login-effect::before {
+  left: 50%;
+  bottom: -120%;
+  background-color: rgba(17, 24, 39, .15);
+  animation-duration: 6s;
+}
+
+.login-effect::after {
+  left: 45%;
+  bottom: -110%;
+  background-color: rgba(31, 41, 55, .2);
+}
+
+.signin-effect::before,
+.signin-effect::after {
+  content: '';
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  border-top-left-radius: 40%;
+  border-top-right-radius: 45%;
+  border-bottom-left-radius: 35%;
+  border-bottom-right-radius: 40%;
+  z-index: 1;
+  animation: wawes 7s infinite;
+}
+
+.signin-effect::before {
+  left: 50%;
+  bottom: -80%;
+  background-color: rgba(17, 24, 39, .30);
+  animation-duration: 6s;
+}
+
+.signin-effect::after {
+  left: 45%;
+  bottom: -70%;
+  background-color: rgba(31, 41, 55, .3);
+}
+
+@keyframes wawes {
+  from { transform: rotate(0); }
+  to { transform: rotate(360deg); }
+}

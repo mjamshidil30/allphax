@@ -1,0 +1,22 @@
+[
+  {
+    "type": "text",
+    "label": "Username:"
+  },
+
+  {
+    "type": "text",
+    "label": "Email:"
+  },
+
+  {
+    "type": "text",
+    "label": "Password:"
+  },
+
+  {
+    "type": "text",
+    "label": "Confirm Password:"
+  }
+
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\AllphaX\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_e89189b4"
+  },
+  {
+    "name": "signin",
+    "path": "/signin",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\AllphaX\\\\pages\\\\signin\\\\index.vue",
+    "chunkName": "pages/signin/index",
+    "_name": "_dbefd13a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\AllphaX\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6059e6c5"
+  }
+]

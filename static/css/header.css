@@ -1,0 +1,18 @@
+* {
+  transition: all .3s;
+  color: aliceblue;
+}
+
+/* input {
+  color: black !important;
+} */
+
+body {
+  color: aliceblue;
+}
+
+.header-search-box input::placeholder {
+  color: black;
+  opacity: .5;
+  font-style: italic;
+}

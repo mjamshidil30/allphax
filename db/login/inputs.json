@@ -1,0 +1,11 @@
+[
+  {
+    "type": "text",
+    "label": "Email:"
+  },
+
+  {
+    "type": "text",
+    "label": "Password:"
+  }
+]

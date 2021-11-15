@@ -1,0 +1,29 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "Datainputs": {
+    "description": "Auto imported from components/Datainputs.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "MainHeader": {
+    "description": "Auto imported from components/MainHeader.vue"
+  },
+  "NavHeader": {
+    "description": "Auto imported from components/NavHeader.vue"
+  },
+  "RegisterProject": {
+    "description": "Auto imported from components/RegisterProject.vue"
+  },
+  "Signin": {
+    "description": "Auto imported from components/Signin.vue"
+  },
+  "SiteHeader": {
+    "description": "Auto imported from components/SiteHeader.vue"
+  }
+}
